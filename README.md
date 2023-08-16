@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leventenagyworks&label=Profile%20views&color=0e75b6&style=flat" alt="leventenagyworks" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **Java, Python**
 
