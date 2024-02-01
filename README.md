@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leventenagyworks&label=Profile%20views&color=0e75b6&style=flat" alt="leventenagyworks" /> </p>
 
-- 🌱 I’m currently learning **React JS and Windtail CSS**
+- 🌱 I’m currently learning **React JS and TailWind CSS**
 
 - 💬 Ask me about **Java, Python**
 
